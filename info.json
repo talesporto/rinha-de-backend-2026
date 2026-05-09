@@ -1,0 +1,7 @@
+{
+  "participants": ["Tales Porto"],
+  "social": ["https://github.com/talesporto"],
+  "source-code-repo": "https://github.com/talesporto/rinha-de-backend-2026",
+  "stack": ["bun", "typescript", "nginx"],
+  "open_to_work": false
+}
