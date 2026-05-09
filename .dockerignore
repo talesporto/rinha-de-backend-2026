@@ -1,0 +1,10 @@
+node_modules
+.git
+*.md
+resources/example-*.json
+resources/mcc_risk.json
+resources/normalization.json
+resources/references.json.gz
+.cursor
+agent-transcripts
+scripts

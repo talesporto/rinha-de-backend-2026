@@ -1,0 +1,13 @@
+{
+  "name": "rinha-de-backend-2026",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/server.ts",
+    "build-index": "bun run src/index-builder.ts",
+    "download-resources": "bun run scripts/download-resources.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

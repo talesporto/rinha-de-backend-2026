@@ -1,0 +1,4 @@
+node_modules/
+resources/references.json.gz
+resources/index.bin
+*.log
